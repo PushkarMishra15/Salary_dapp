@@ -1,0 +1,46 @@
+
+.container_2{
+    position: relative;
+    bottom: -120px;
+    border: 6px solid grey;
+    border-radius: 10px;
+    width: 38%;
+    padding: 110px 230px;
+    margin: 41px 46px;
+    right: -410px;
+  }
+
+
+.heading_2{
+    position: relative;
+    bottom: 50px;
+    left: 2px; 
+    font-family:Arial, Helvetica, sans-serif;
+}
+.Intro_Employee{
+    display: block;
+    width: 20%;
+    border: none;
+    background-color: #04b474;
+    text-align: center;
+    padding: 6px 0px;
+    color: white;
+    border-radius: 15px;
+    position: fixed;
+    margin: 50px 50px;
+    left: 558px;
+}
+.Intro_Manager{
+
+    display: block;
+    width: 20%;
+    border: none;
+    background-color: #04b474;
+    text-align: center;
+    padding: 6px 0px;
+    color: white;
+    border-radius: 15px;
+    position: fixed;
+    margin: -15px 50px;
+    left: 558px;
+}
